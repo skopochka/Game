@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\eugene\desktop\furaline\programcode\racinggame\</FILEPATH><FILENAME>gamemodel.cpp</FILENAME><LINE>52</LINE><COLUMN>18</COLUMN></SFA><DEFECTCODE>6282</DEFECTCODE><DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION><FUNCTION>GameModel::FieldUpdate</FUNCTION><DECORATED>?FieldUpdate@GameModel@@QAE_NXZ</DECORATED><FUNCLINE>47</FUNCLINE><PATH/></DEFECT></DEFECTS>
